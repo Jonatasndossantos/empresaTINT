@@ -1,0 +1,15 @@
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\bin\Release\empresaTINT.exe.config
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\bin\Release\empresaTINT.exe
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\bin\Release\empresaTINT.pdb
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\obj\Release\empresaTINT.csproj.AssemblyReference.cache
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\obj\Release\empresaTINT.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\obj\Release\empresaTINT.Atualizar.resources
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\obj\Release\empresaTINT.Cadastrar.resources
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\obj\Release\empresaTINT.Consultar.resources
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\obj\Release\empresaTINT.Excluir.resources
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\obj\Release\empresaTINT.Form1.resources
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\obj\Release\empresaTINT.Properties.Resources.resources
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\obj\Release\empresaTINT.csproj.GenerateResource.cache
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\obj\Release\empresaTINT.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\obj\Release\empresaTINT.exe
+C:\Users\jonatas.nsantos2\source\repos\empresaTINT\empresaTINT\obj\Release\empresaTINT.pdb
