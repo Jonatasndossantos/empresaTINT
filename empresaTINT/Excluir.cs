@@ -12,9 +12,11 @@ namespace empresaTINT
 {
     public partial class Excluir : Form
     {
+        DAO exc;
         public Excluir()
         {
             InitializeComponent();
+            exc= new DAO();
         }
 
         private void voltar_Click(object sender, EventArgs e)
@@ -29,7 +31,9 @@ namespace empresaTINT
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            int codigo = Convert.ToInt32(textBox1.Text);
+            MessageBox.Show(exc.Excluir(codigo));
+            this.Close();
         }//fim excluir
     }
 }

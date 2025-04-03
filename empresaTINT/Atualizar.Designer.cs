@@ -39,6 +39,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.buscar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label5
@@ -112,7 +113,7 @@
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(76, 91);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(272, 26);
+            this.textBox1.Size = new System.Drawing.Size(175, 26);
             this.textBox1.TabIndex = 15;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -156,12 +157,25 @@
             this.label1.TabIndex = 11;
             this.label1.Text = "Codigo:";
             // 
+            // buscar
+            // 
+            this.buscar.BackColor = System.Drawing.Color.Black;
+            this.buscar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.buscar.Location = new System.Drawing.Point(254, 91);
+            this.buscar.Name = "buscar";
+            this.buscar.Size = new System.Drawing.Size(94, 26);
+            this.buscar.TabIndex = 22;
+            this.buscar.Text = "Buscar";
+            this.buscar.UseVisualStyleBackColor = false;
+            this.buscar.Click += new System.EventHandler(this.buscar_Click);
+            // 
             // Atualizar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightGray;
             this.ClientSize = new System.Drawing.Size(355, 404);
+            this.Controls.Add(this.buscar);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.voltar);
             this.Controls.Add(this.button1);
@@ -193,5 +207,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button buscar;
     }
 }
